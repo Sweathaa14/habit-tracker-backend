@@ -1,0 +1,14 @@
+# IDE files
+*.idea/
+*.vscode/
+
+# Maven target
+/target/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.jar
+*.war
